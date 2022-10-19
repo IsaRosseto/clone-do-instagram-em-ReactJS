@@ -1,3 +1,10 @@
+#   Clone do Instagram em React.Js
+
+> Atividade proposta pelo professor Gabriel do PROA ;
+
+> A ideia é criar uma página identica ao Instagram utilizando React.js
+
+
 
 # Rode o projeto em sua máquina! 
 
@@ -13,5 +20,20 @@
 6 - Execute o comando para abrir no seu navegador: 
 > npm start
 
+Prontinho, o instagram já está rodando!
 
-Pronto ja tem o instagram rodando em sua máquina! Obrigado pela atenção!
+# TECNOLOGIAS E LINGUAGENS UTILIZADAS:
+
+ <img align="center" alt="Isa-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> REACT.JS
+ <br><br>
+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JAVASCRPIT
+ <br><br>
+ <img align="center" alt="Isa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML
+ <br><br>
+ <img align="center" alt="Isa-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS
+  <br><br>
+ <img align="center" alt="Isa-VSCode" height="30" width="40" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"/> VSCode
+ <br><br>
+ <img align="center" alt="Isa-NODEjs" height="30" width="40"  src="https://img.icons8.com/windows/32/000000/nodejs.png"> NODEJS
+
+
