@@ -1,0 +1,24 @@
+.Grid {
+    display: grid;
+    grid-template-areas: "firstColumn secondColumn";
+    grid-template-columns: 470px 119px;
+    grid-gap: 30px;
+    max-width: 957px;
+    margin: 80px auto;
+    margin-left: 280px;
+}
+
+
+.box {
+    background-color: var(--background);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+}
+
+
+
+.sugestaoBox {
+position: fixed;
+max-width: 293px;
+
+}

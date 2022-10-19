@@ -1,0 +1,132 @@
+.header-post {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 15px;
+
+}
+
+.info-post {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.header-post .img-header-post {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.img-post img {
+    width: 100%;
+    object-fit: cover;
+}
+
+
+
+.footer-post {
+    padding: 15px 15px;
+}
+
+.engagement-post {
+    display: flex;
+    justify-content: space-between;
+}
+
+.engagement-post .icons-1 {
+    display: flex;
+    gap: 16px
+}
+
+.icon {
+    cursor: pointer;
+}
+
+.like {
+    margin-top: 6px;
+}
+
+.like span {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.legenda {
+    margin: 6px 0 3px;
+}
+
+.legenda p span {
+    font-weight: 500;
+}
+
+.tempo-post time {
+    font-size: 11px;
+    color: var(--secondary);
+}
+
+.comentario {
+    border-top: 1px solid var(--border-secondary);
+    margin-top: 8px;
+    display: flex;
+}
+
+.comentario-fake {
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    flex: 1;
+    gap: 16px;
+}
+
+.comentario-fake input {
+    font-size: 16px;
+}
+
+.comentario button {
+    color: var(--quartary);
+    cursor: pointer;
+    font-weight: 500;
+}
+
+
+
+.icon2:hover {
+   color: gray;
+   cursor: pointer;
+  }
+
+.icon2:focus{
+    background-image: url('https://images.vexels.com/media/users/3/151200/isolated/preview/71b99b7323bfd07bab3fc7dd973261e1-elemento-de-hippie-de-cora----o-vermelho-by-vexels.png');
+    
+  }
+
+  .comentarios span{
+    display: flex;
+    gap: 4px;
+    font-size: 14px;
+    margin-top: 10px
+}
+
+.comentarios span strong {
+    font-weight: 500;
+}
+
+.comentarios span .todos {
+    cursor: pointer;
+    color: var(--secondary) ;
+}
+
+.post2 {
+    margin-top: 15px;
+}
+
+.legenda .leiamais {   
+    color: var(--secondary);
+    cursor: pointer;
+}
+
+.info-post .verificado {
+    width: 20px;
+    margin-left: -10px;
+}

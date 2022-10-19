@@ -1,0 +1,56 @@
+.header {
+    background-color: var(--background);
+    border-bottom: 1px solid var(--border);
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+
+.header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    max-width: 957px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.header .container .logo {
+    width: 110px;
+    cursor: pointer;
+}
+
+.input-icon {
+    background-color: var(--background-main);
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    padding: 3px 10px;
+    width: 268px;
+    height: 36px;
+}
+
+.input-icon input {
+    font-size: 15px;
+    padding: 0 7px;
+}
+
+.menu-icons {
+    display: flex;
+    gap: 16px;
+    cursor: pointer;
+    align-items: center;
+}
+
+.menu-icons .img-user {
+    width: 26px;
+    height: 26px;
+    border-radius: 100%;
+}
+
+.menu-icons .icon {
+    width: 26px;
+}

@@ -1,0 +1,56 @@
+.container {
+    padding: 15px ;
+    display: flex;
+    gap: 18px;
+    overflow:hidden;
+    
+
+}
+
+.story-elements {
+    cursor: pointer;
+    
+}
+
+.elementos-usuario div {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient( #c82d8e, #f99d4c);
+    flex-direction: column;
+    cursor: pointer;
+    
+    
+}
+
+.story1 {
+    margin-left: 4px;
+}
+
+
+.image-user-story {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    border: 2px solid var(--background);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.elementos-usuario span {
+    font-size: 13px;
+    cursor: pointer;
+    text-align: center;
+    margin: 0;
+    justify-content: center;
+    display: flex;
+}
+
+.elementos-usuario .amigo {
+    background: linear-gradient( #09ff00, #009b12);
+}
