@@ -4,7 +4,11 @@
 
 > A ideia é criar uma página identica ao Instagram utilizando React.js
 
+##
 
+![image](https://user-images.githubusercontent.com/92994715/200914163-ee9458b0-631d-4f7a-8202-2bdfd42b10e1.png)
+
+##
 
 # Rode o projeto em sua máquina! 
 
